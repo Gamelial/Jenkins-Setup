@@ -5,7 +5,7 @@ JENKINS
 - Create a Server on AWS OR AZURE VM
 - Cd downloads
 - Chmod 600 tony-key.pem 
-  -   shh -I Tony-key.pem ubuntu@1234566
+  -   shh -I chugam24-key.pem ubuntu@1234566
 - Sudo apt update && sudo apt upgrade -y
 
 RUN THE BELOW COMMANDS TO INSTALL JAVA AND JENKINS
